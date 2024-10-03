@@ -98,4 +98,4 @@ The p-value shown for the comparison of white and black is 0.00001741, the p-val
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Go to master branch for conclusion
+The attitude of capitol punishment is independent from race. The graph we see when we focused the variables the data will have different conclusions. The number 2 branch would have a 2:1 ratio of favor for the white group compared to the master branch, it would have a 2:3 ratio in favor. The difference is the change with the master branch while in the number 3 branch they have a higher number in favor of capitol punishment. 
